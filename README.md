@@ -1,3 +1,11 @@
+# About Project
+This project is for storing memories but i have worked only on state. I will be integrating it with backend in the near future.
+
+## Tech used
+### React JS
+### TypeScript
+### Tailwind CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
