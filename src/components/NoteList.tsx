@@ -15,7 +15,7 @@ const NoteList:React.FC<NoteProp> = ({notes,setNotes}) => {
         return (
 
             <>
-            <div className='w-full h-fit flex flex-wrap justify-center bg-red-200 sm:justify-evenly'>
+            <div className='w-full h-fit flex flex-wrap justify-center sm:justify-evenly'>
             {notes.map((note)=>{
              return (
                          <Notes key={note.id} note={note} handleDelete={handleDelete}/>     
